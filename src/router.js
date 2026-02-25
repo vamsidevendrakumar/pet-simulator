@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import WelcomePage from './components/WelcomePage.vue'
 import ChoosePet from './components/ChoosePet.vue';
-import PlayGround from './components/playGround.vue';
+import PlayGround from './components/PlayGround.vue';
 import PetDied from './components/PetDied.vue';
 
 const routes = [
